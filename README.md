@@ -6,7 +6,7 @@
 
 
 ### Завдання 1
-Є наступний JavaScript код:
+Є наступний JavaScript код: 
 
 ```ts
 let age = 50;

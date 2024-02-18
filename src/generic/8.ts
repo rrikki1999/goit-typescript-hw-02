@@ -8,7 +8,7 @@ type Errors = {
   firstName?: string[];
   lastName?: string[];
   phone?: string[];
-};
+}; 
 
 type Form = {
   email: string | null;
